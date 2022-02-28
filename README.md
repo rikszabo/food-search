@@ -8,7 +8,7 @@ Install:
 npm i
 npm start
 
-Install yelp api:
+Set yelp api:
 
 import axios from 'axios'
 
